@@ -1,16 +1,5 @@
 [
   {
-    "eventName": "From-Dev-to-Ops | Devops Community Meetup Dec 13",
-    "eventDescription": "From-Dev-to-Ops is a community of devops, SRE and Platform Engineers who share raw, behind-the-scenes war room experiences — the outages, the quick fixes, the lessons learned, and the systems that broke in a fun, honest, and simple way.",
-    "eventDate": "2025-12-13",
-    "eventTime": "09:30",
-    "eventVenue": "Perfecter.ai, Temple Steps 6th Floor B Block 181-187 Anna Salai, Little Mount, Saidapet",
-    "eventLink": "https://luma.com/nws1yrzn",
-    "location": "Chennai",
-    "communityName": "From-Dev-to-Ops",
-    "communityLogo": "https://i.ibb.co/KZTKzgt/from-dev-to-ops-logo-900-x-900-px.png"
-  },
-  {
     "eventName": "NammaFlutter DevCon - The Flagship Flutter Developer Conference",
     "eventDescription": "Join us to celebrate Flutter and share the enthusiasm with fellow Flutter Developers",
     "eventDate": "2025-12-20",
@@ -42,17 +31,6 @@
     "location": "Chennai",
     "communityName": "FOSS United Chennai",
     "communityLogo": "https://fossunited.org/files/Foss%20United%20Logo%20Black.svg"
-  },
-  {
-    "eventName": "Java Jingle-A End-of-year code meetup",
-    "eventDescription": "A End of year code meetup,We're thrilled to announce that this Showdown event is in collaboration with Google for Developers! We are bringing the best of the Java community together for technical deep dives, some friendly competition, and pure fun in collaboration with Google for Developers. ",
-    "eventDate": "2025-12-13",
-    "eventTime": "09:00",
-    "eventVenue": "Kissflow WTC, No:5, Tower-B, 10th Floor, World Trade Center, 142, Rajiv Gandhi Salai, Perungudi, Chennai, Tamil Nadu 600096",
-    "eventLink": "https://luma.com/9nu25h4b",
-    "location": "Chennai",
-    "communityName": "CodeonJVM Chennai",
-    "communityLogo": "https://i.ibb.co/84B2cpZy/Logo-Black.jpg"
   },
   {
     "eventName": "Madurai FOSS Meetup – December",
