@@ -1,27 +1,5 @@
 [
   {
-    "eventName": "NammaFlutter DevCon - The Flagship Flutter Developer Conference",
-    "eventDescription": "Join us to celebrate Flutter and share the enthusiasm with fellow Flutter Developers",
-    "eventDate": "2025-12-20",
-    "eventTime": "08:00",
-    "eventVenue": "PayPal India Development Center, Futura Tech Park, 334, Rajiv Gandhi Salai, Elcot Sez, Sholinganallur, Chennai, Tamil Nadu 600119",
-    "eventLink": "https://luma.com/l2jkniyz",
-    "location": "Chennai",
-    "communityName": "NammaFlutter | Flutter Chennai",
-    "communityLogo": "https://avatars.githubusercontent.com/u/176333249"
-  },
-  {
-    "eventName": "December FOSS Meetup",
-    "eventDescription": "FOSS United Chennai Monthly Meetup - December 2025",
-    "eventDate": "2025-12-20",
-    "eventTime": "09:00",
-    "eventVenue": "Poshmark Pvt.Ltd., 3rd floor South Wing, KRM Plaza, Harrington Road, Chetpet, Chennai, Tamil Nadu 600031",
-    "eventLink": "https://fossunited.org/c/chennai/dec-25",
-    "location": "Chennai",
-    "communityName": "FOSS United Chennai",
-    "communityLogo": "https://fossunited.org/files/Foss%20United%20Logo%20Black.svg"
-  },
-  {
     "eventName": "January FOSS Meetup",
     "eventDescription": "FOSS United Chennai Monthly Meetup - January 2026",
     "eventDate": "2026-01-10",
@@ -30,17 +8,6 @@
     "eventLink": "https://fossunited.org/c/chennai/jan-26",
     "location": "Chennai",
     "communityName": "FOSS United Chennai",
-    "communityLogo": "https://fossunited.org/files/Foss%20United%20Logo%20Black.svg"
-  },
-  {
-    "eventName": "Madurai FOSS Meetup – December",
-    "eventDescription": "A fresh new chapter begins! Kickstart the Madurai FOSS vibe with inspiring talks, cool people, and pure FOSS energy!",
-    "eventDate": "2025-12-20",
-    "eventTime": "10:00",
-    "eventVenue": "DCI (Dot Com Infoway), 1st Floor, Vaigai Colony, 80 Feet Rd, opp. to Ambika Theatre, Anna Nagar, Madurai.",
-    "eventLink": "https://fossunited.org/c/madurai/dec-20",
-    "location": "Madurai",
-    "communityName": "FOSS United Madurai",
     "communityLogo": "https://fossunited.org/files/Foss%20United%20Logo%20Black.svg"
   }
 ]
